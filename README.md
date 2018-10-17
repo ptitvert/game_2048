@@ -1,6 +1,8 @@
 # game_2048
 
 This is a small project to redo the game 2048 on a smartphone.
+As a first step, I have done this project on normal coding environment (Console and Java) in order to get a better feeling of that little game.
+Before going to Terra Incognita!
 
 I have lots of knowledge for backend and console applications, the challenge, for me, is to port this little game to my Android phone,
 and my iPad.
